@@ -27,4 +27,4 @@ My name is Yi Chean and I'm a web developer. I'm currently working in a software
 ## Connect with me 📫
 - 🔗 [Email][email]
 
-[email]: eaanloh2013@gmail.com
+[email]: mailto:eaanloh2013@gmail.com
