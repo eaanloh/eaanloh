@@ -1,11 +1,11 @@
 ### Hi There, I'm Yi Chean. <img src="https://raw.githubusercontent.com/eaanloh/eaanloh/master/wave.gif" width="30px">
-My name is Yi Chean and I'm a web developer. I'm currently working in a software house.
+My name is Yi Chean and I'm a full-stack developer. I'm currently studying my bachelor degree in computer science.
 <br><br>
 
 <!-- Soon will be Bachelor Degree student -->
-## I'm a Diploma graduate! ✨
-- 💻 I'm currently working as a backend developer
-- 👀 I'm interested in web development, game development...
+## I'm a Bachelor Degree Student! ✨
+- 💻 I'm currently working on my final year project (and it's about natural language processing)
+- 👀 I'm interested in AI/ML, web development, game development...
 - 🌱 I’m currently learning everything 🤣
 - 💞️ I'm looking to collaborate with other content creators
 - 💭 Fun Fact: I love to draw and make desserts
